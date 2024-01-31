@@ -1,2 +1,3 @@
 Gym_services
-Depolye Link:https://gymservices.netlify.app/
+
+Depoly Link:https://gymservices.netlify.app/
